@@ -1,0 +1,15 @@
+SERVIDOR=localhost 
+#linha trava zap
+#linha absolute
+b
+p
+a
+l
+a
+v
+r
+a
+a
+a
+a
+
